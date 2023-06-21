@@ -1,4 +1,4 @@
-### Hi there 👋
+### 리액트와 자바스크립트로 프론트엔드 개발을 시작하였고, 자바와 스프링, SQL을 활용하여 RestAPI 만드는 것에 관심이 있습니다.
 
 <!--
 **hojncode/hojncode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
