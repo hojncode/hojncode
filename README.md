@@ -1,6 +1,7 @@
 >hojncode's github
-### I’m currently learning JavaScript, TypeScript ,React, Next, Java, Spring , iOS
-
+- 🌱 I’m currently learning React , Next.js , TypeScript
+-  🤔 I’m looking for help with React Native
+- 📫 How to reach me: glicm12@gmail.com
 <!--
 **hojncode/hojncode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
