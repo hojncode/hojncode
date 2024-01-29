@@ -1,5 +1,5 @@
 >hojncode's github
-- 🌱 I’m currently learning React , Next.js , TypeScript
+- 🌱 I’m currently learning React , Next.js , TypeScript , React Native
 -  🤔 I’m looking for help with React Native
 - 📫 How to reach me: glicm12@gmail.com
 <!--
